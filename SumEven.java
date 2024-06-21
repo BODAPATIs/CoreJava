@@ -5,7 +5,7 @@ class Even {
 		while(num>1){
 			if(num%2==0){
 				num=num/2;
-				System.out.println(num);
+				System.out.printl("Even number"+num);
 			}
 			else{
 				num=3*num+1;
